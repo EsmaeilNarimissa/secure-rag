@@ -1,0 +1,38 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+!.env.example  # Keep the example file
+
+# Miscellaneous
+*.DS_Store
+*.egg-info/
+dist/
+build/
+Old_Files/
+
+# ChromaDB Vectors
